@@ -1,4 +1,4 @@
-Persamaan Matematis:
+# Persamaan Matematis:
 
 1. MSE (Mean Squared Error)
 Digunakan untuk menghitung rata-rata dari error kuadrat. Selain itu, MSE digunakan untuk mengukur seberapa jauh prediksi model dibandingkan nilai sebenarnya
