@@ -12,3 +12,6 @@ F1-Score adalah harmonic mean dari precision dan recall, yang memberikan keseimb
 ROC Curve adalah grafik yang menggambarkan hubungan antara True Positive Rate (TPR) atau Recall dan False Positive Rate (FPR) untuk berbagai nilai ambang batas (threshold)
 6. AOC
 AUC adalah luas di bawah kurva ROC, yang menunjukkan kemampuan model membedakan kelas positif dan negatif
+
+# Metrik terbaik: ROC AUC
+Karena memberi gambaran keseluruhan tentang kemampuan model membedakan kelas positif dan negatif.
