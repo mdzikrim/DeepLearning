@@ -1,4 +1,4 @@
-## Persamaan matematika:
+## Persamaan matematis:
 
 1. Akurasi
 Akurasi digunakan untuk mengukur seberapa sering model membuat prediksi benar dari keseluruhan data
